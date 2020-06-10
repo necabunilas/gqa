@@ -1,0 +1,45 @@
+/*NAVIGATION*/
+.navbar {
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.navbar-brand {
+  font-family: 'Playfair Display', serif;
+}
+
+.nav-item {
+  padding: 0 0 0 50px;
+}
+
+.navbar-nav {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1rem;
+}
+
+/*HOME*/
+#home {
+  background-size: 2000px 1200px;
+  background-image: url("../images/home-wall3-dark.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.home-text {
+  text-align: center;
+  padding: 14% 15% 16%;
+
+}
+
+.home-text h1{
+  font-family: 'Playfair Display', serif;
+  font-size: 5.5rem;
+  font-weight: 700;
+  color: #EAEAEA;
+}
+
+.home-text h3{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 3rem;
+  color: #EAEAEA;
+}
