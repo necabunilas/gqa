@@ -43,3 +43,23 @@
   font-size: 3rem;
   color: #EAEAEA;
 }
+
+/*VISION*/
+#vision {
+  text-align: center;
+  padding: 5% 15%;
+  background-color: #323232;
+}
+
+#vision h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2rem;
+  padding-bottom: 1.5rem;
+  color: #EAEAEA;
+}
+
+#vision p {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #EAEAEA;
+  font-size: 1.6rem;
+}
