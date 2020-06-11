@@ -49,12 +49,13 @@
 #vision {
   text-align: center;
   padding: 5% 15%;
-  background-color: #323232;
+  background-color: black;
+  /* #323232 */
 }
 
 #vision h2 {
   font-family: 'Playfair Display', serif;
-  font-size: 2rem;
+  font-size: 1.5rem;
   padding-bottom: 1.5rem;
   color: #EAEAEA;
 }
@@ -63,4 +64,50 @@
   font-family: 'Source Sans Pro', sans-serif;
   color: #EAEAEA;
   font-size: 1.6rem;
+}
+
+/*VISION*/
+#practice {
+  text-align: center;
+  padding: 5% 15%;
+  background-color: white;
+  /* #323232 */
+}
+
+#practice h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5rem;
+  padding-bottom: 1.5rem;
+  color: black;
+}
+
+#practice p {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: black;
+  font-size: 1.6rem;
+}
+
+#footer {
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: black;
+  padding: 3% 15%;
+  color: white;
+  text-align: center;
+}
+
+#footer h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5rem;
+  color: #EAEAEA;
+}
+
+#footer p{
+  margin-bottom: 0;
+}
+
+#footer hr {
+  border-top: 1px solid white;
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
+  width: 32%;
 }
